@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="580" height="220" viewBox="0 0 580 220" fill="none" role="img" aria-labelledby="lg-t lg-d">
 <title id="lg-t">Languages</title>
-<desc id="lg-d">Top languages for pedrodcarvalho by bytes: JavaScript 26.4%, Jupyter Notebook 26.4%, C 12.3%, TypeScript 7.6%, CSS 5.0%, Astro 3.3%, C++ 3.3%, VHDL 3.2%, Other 12.5%</desc>
+<desc id="lg-d">Top languages for pedrodcarvalho by bytes: JavaScript 26.2%, Jupyter Notebook 26.2%, C 12.2%, TypeScript 7.6%, CSS 5.0%, Python 3.7%, Astro 3.2%, C++ 3.2%, Other 12.7%</desc>
 <defs>
 <pattern id="lg-dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="rgba(14,16,19,0.07)"/></pattern>
 <radialGradient id="lg-fade" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(70 0) rotate(90) scale(242 435)"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
@@ -34,27 +34,27 @@
 <clipPath id="lg-bar"><rect x="28" y="60" width="524" height="12" rx="6"/></clipPath>
 <rect x="28" y="60" width="524" height="12" rx="6" fill="rgba(14,16,19,0.07)"/>
 <g clip-path="url(#lg-bar)">
-<rect class="seg" style="animation-delay:0.10s" x="28.00" y="60" width="134.32" height="12" fill="#f1e05a"/>
-<rect class="seg" style="animation-delay:0.16s" x="164.32" y="60" width="134.32" height="12" fill="#DA5B0B"/>
-<rect class="seg" style="animation-delay:0.22s" x="300.64" y="60" width="62.58" height="12" fill="#555555"/>
-<rect class="seg" style="animation-delay:0.28s" x="365.22" y="60" width="38.68" height="12" fill="#3178c6"/>
-<rect class="seg" style="animation-delay:0.34s" x="405.90" y="60" width="25.58" height="12" fill="#663399"/>
-<rect class="seg" style="animation-delay:0.40s" x="433.48" y="60" width="16.56" height="12" fill="#ff5a03"/>
-<rect class="seg" style="animation-delay:0.46s" x="452.04" y="60" width="16.52" height="12" fill="#f34b7d"/>
-<rect class="seg" style="animation-delay:0.52s" x="470.56" y="60" width="16.14" height="12" fill="#adb2cb"/>
-<rect class="seg" style="animation-delay:0.58s" x="488.69" y="60" width="63.31" height="12" fill="rgba(14,16,19,0.18)"/>
+<rect class="seg" style="animation-delay:0.10s" x="28.00" y="60" width="133.19" height="12" fill="#f1e05a"/>
+<rect class="seg" style="animation-delay:0.16s" x="163.19" y="60" width="133.19" height="12" fill="#DA5B0B"/>
+<rect class="seg" style="animation-delay:0.22s" x="298.39" y="60" width="62.05" height="12" fill="#555555"/>
+<rect class="seg" style="animation-delay:0.28s" x="362.44" y="60" width="38.36" height="12" fill="#3178c6"/>
+<rect class="seg" style="animation-delay:0.34s" x="402.79" y="60" width="25.36" height="12" fill="#663399"/>
+<rect class="seg" style="animation-delay:0.40s" x="430.15" y="60" width="18.67" height="12" fill="#3572A5"/>
+<rect class="seg" style="animation-delay:0.46s" x="450.82" y="60" width="16.42" height="12" fill="#ff5a03"/>
+<rect class="seg" style="animation-delay:0.52s" x="469.24" y="60" width="16.38" height="12" fill="#f34b7d"/>
+<rect class="seg" style="animation-delay:0.58s" x="487.62" y="60" width="64.38" height="12" fill="rgba(14,16,19,0.18)"/>
 </g>
-<g class="rise" style="animation-delay:0.30s"><circle cx="33.0" cy="101" r="5" fill="#f1e05a" stroke="rgba(14,16,19,0.18)"/><text x="46.0" y="106" class="sans fg" style="font-size:14px;font-weight:500">JavaScript</text><path d="M138 102H216" stroke="rgba(14,16,19,0.09)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="274.0" y="106" text-anchor="end" class="mono mut" style="font-size:12.5px">26.4%</text></g>
-<g class="rise" style="animation-delay:0.35s"><circle cx="33.0" cy="124" r="5" fill="#DA5B0B" stroke="rgba(14,16,19,0.18)"/><text x="46.0" y="129" class="sans fg" style="font-size:14px;font-weight:500">Jupyter Notebook</text><path d="M187 125H216" stroke="rgba(14,16,19,0.09)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="274.0" y="129" text-anchor="end" class="mono mut" style="font-size:12.5px">26.4%</text></g>
-<g class="rise" style="animation-delay:0.40s"><circle cx="33.0" cy="147" r="5" fill="#555555" stroke="rgba(14,16,19,0.18)"/><text x="46.0" y="152" class="sans fg" style="font-size:14px;font-weight:500">C</text><path d="M64 148H216" stroke="rgba(14,16,19,0.09)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="274.0" y="152" text-anchor="end" class="mono mut" style="font-size:12.5px">12.3%</text></g>
+<g class="rise" style="animation-delay:0.30s"><circle cx="33.0" cy="101" r="5" fill="#f1e05a" stroke="rgba(14,16,19,0.18)"/><text x="46.0" y="106" class="sans fg" style="font-size:14px;font-weight:500">JavaScript</text><path d="M138 102H216" stroke="rgba(14,16,19,0.09)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="274.0" y="106" text-anchor="end" class="mono mut" style="font-size:12.5px">26.2%</text></g>
+<g class="rise" style="animation-delay:0.35s"><circle cx="33.0" cy="124" r="5" fill="#DA5B0B" stroke="rgba(14,16,19,0.18)"/><text x="46.0" y="129" class="sans fg" style="font-size:14px;font-weight:500">Jupyter Notebook</text><path d="M187 125H216" stroke="rgba(14,16,19,0.09)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="274.0" y="129" text-anchor="end" class="mono mut" style="font-size:12.5px">26.2%</text></g>
+<g class="rise" style="animation-delay:0.40s"><circle cx="33.0" cy="147" r="5" fill="#555555" stroke="rgba(14,16,19,0.18)"/><text x="46.0" y="152" class="sans fg" style="font-size:14px;font-weight:500">C</text><path d="M64 148H216" stroke="rgba(14,16,19,0.09)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="274.0" y="152" text-anchor="end" class="mono mut" style="font-size:12.5px">12.2%</text></g>
 <g class="rise" style="animation-delay:0.45s"><circle cx="33.0" cy="170" r="5" fill="#3178c6" stroke="rgba(14,16,19,0.18)"/><text x="46.0" y="175" class="sans fg" style="font-size:14px;font-weight:500">TypeScript</text><path d="M138 171H216" stroke="rgba(14,16,19,0.09)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="274.0" y="175" text-anchor="end" class="mono mut" style="font-size:12.5px">7.6%</text></g>
 <g class="rise" style="animation-delay:0.50s"><circle cx="311.0" cy="101" r="5" fill="#663399" stroke="rgba(14,16,19,0.18)"/><text x="324.0" y="106" class="sans fg" style="font-size:14px;font-weight:500">CSS</text><path d="M359 102H494" stroke="rgba(14,16,19,0.09)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="552.0" y="106" text-anchor="end" class="mono mut" style="font-size:12.5px">5.0%</text></g>
-<g class="rise" style="animation-delay:0.55s"><circle cx="311.0" cy="124" r="5" fill="#ff5a03" stroke="rgba(14,16,19,0.18)"/><text x="324.0" y="129" class="sans fg" style="font-size:14px;font-weight:500">Astro</text><path d="M375 125H494" stroke="rgba(14,16,19,0.09)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="552.0" y="129" text-anchor="end" class="mono mut" style="font-size:12.5px">3.3%</text></g>
-<g class="rise" style="animation-delay:0.60s"><circle cx="311.0" cy="147" r="5" fill="#f34b7d" stroke="rgba(14,16,19,0.18)"/><text x="324.0" y="152" class="sans fg" style="font-size:14px;font-weight:500">C++</text><path d="M359 148H494" stroke="rgba(14,16,19,0.09)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="552.0" y="152" text-anchor="end" class="mono mut" style="font-size:12.5px">3.3%</text></g>
-<g class="rise" style="animation-delay:0.65s"><circle cx="311.0" cy="170" r="5" fill="#adb2cb" stroke="rgba(14,16,19,0.18)"/><text x="324.0" y="175" class="sans fg" style="font-size:14px;font-weight:500">VHDL</text><path d="M367 171H494" stroke="rgba(14,16,19,0.09)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="552.0" y="175" text-anchor="end" class="mono mut" style="font-size:12.5px">3.2%</text></g>
+<g class="rise" style="animation-delay:0.55s"><circle cx="311.0" cy="124" r="5" fill="#3572A5" stroke="rgba(14,16,19,0.18)"/><text x="324.0" y="129" class="sans fg" style="font-size:14px;font-weight:500">Python</text><path d="M383 125H494" stroke="rgba(14,16,19,0.09)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="552.0" y="129" text-anchor="end" class="mono mut" style="font-size:12.5px">3.7%</text></g>
+<g class="rise" style="animation-delay:0.60s"><circle cx="311.0" cy="147" r="5" fill="#ff5a03" stroke="rgba(14,16,19,0.18)"/><text x="324.0" y="152" class="sans fg" style="font-size:14px;font-weight:500">Astro</text><path d="M375 148H494" stroke="rgba(14,16,19,0.09)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="552.0" y="152" text-anchor="end" class="mono mut" style="font-size:12.5px">3.2%</text></g>
+<g class="rise" style="animation-delay:0.65s"><circle cx="311.0" cy="170" r="5" fill="#f34b7d" stroke="rgba(14,16,19,0.18)"/><text x="324.0" y="175" class="sans fg" style="font-size:14px;font-weight:500">C++</text><path d="M359 171H494" stroke="rgba(14,16,19,0.09)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="552.0" y="175" text-anchor="end" class="mono mut" style="font-size:12.5px">3.2%</text></g>
 <path d="M28 180H552" stroke="rgba(14,16,19,0.09)"/>
 <text x="28" y="202" class="mono sub" style="font-size:11px;letter-spacing:.08em">Jupyter weight capped · raw 29.3 MB w/ outputs</text>
-<text x="552" y="202" text-anchor="end" class="mono sub" style="font-size:11px;letter-spacing:.08em">+10 more · 12.5%</text>
+<text x="552" y="202" text-anchor="end" class="mono sub" style="font-size:11px;letter-spacing:.08em">+10 more · 12.7%</text>
 </g>
 <rect x="0.5" y="0.5" width="579" height="219" rx="16" stroke="rgba(14,16,19,0.09)"/>
 </svg>
