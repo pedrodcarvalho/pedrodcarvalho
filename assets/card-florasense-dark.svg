@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="260" viewBox="0 0 580 260" role="img" aria-label="FloraSense: TinyML plant-health monitor. Health score 0.94 with live soil and climate sparklines."><title>FloraSense</title><defs><pattern id="d" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="rgba(255,255,255,0.06)"/></pattern><clipPath id="pc"><rect width="256" height="112" rx="12"/></clipPath><linearGradient id="fg" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".25" stop-color="#fff"/></linearGradient><mask id="fade"><rect x="124" y="30" width="122" height="76" fill="url(#fg)"/></mask></defs><style>
+.sans{font-family:'Geist','Inter',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+.mono{font-family:'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.fg{fill:#e8eaed}.mut{fill:#9aa0a6}.sub{fill:#8a9097}.acc{fill:#3ddccb}
+
+.eb{font-family:'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12.5px;letter-spacing:1.8px;fill:#3ddccb}
+.tt{font-family:'Geist','Inter',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:28px;font-weight:600;letter-spacing:-.4px;fill:#e8eaed}
+.slug{font-family:'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;fill:#8a9097}
+.ds{font-family:'Geist','Inter',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:16px;fill:#9aa0a6}
+.ch{fill:#171a1f;stroke:rgba(255,255,255,0.08)}
+.chA{fill:rgba(61,220,203,0.12);stroke:#3ddccb;stroke-opacity:.35}
+.ct{font-family:'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;fill:#9aa0a6}
+.ctA{font-family:'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;fill:#3ddccb}
+.v{font-family:'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+
+.ring{stroke-dashoffset:13.57;animation:fill 2.2s cubic-bezier(.2,.7,.2,1) both}
+.fglow{stroke-dashoffset:13.57;animation:fill 2.2s cubic-bezier(.2,.7,.2,1) both,breathe 3.6s 2.2s ease-in-out infinite}
+.sp{animation:scroll 4.2s linear infinite}
+.sp2{animation:scroll 6s linear infinite}
+.blink{animation:blink 1.6s ease-in-out infinite}
+@keyframes fill{0%{stroke-dashoffset:169.65}100%{stroke-dashoffset:13.57}}
+@keyframes breathe{0%{opacity:1}50%{opacity:.35}100%{opacity:1}}
+@keyframes scroll{0%{transform:translateX(0)}100%{transform:translateX(-66px)}}
+@keyframes blink{0%{opacity:1}50%{opacity:.25}100%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.pkt{display:none}}</style><rect x=".5" y=".5" width="579" height="259" rx="16" fill="#111317" stroke="rgba(255,255,255,0.08)"/><text x="28" y="45" class="eb">THESIS · 2026 · TINYML</text><text x="28" y="88" class="tt">FloraSense</text><text x="28" y="116" class="slug">~/flora-sense</text><g transform="translate(296 24)"><rect width="256" height="112" rx="12" fill="#0a0b0d"/><g clip-path="url(#pc)"><rect width="256" height="112" fill="url(#d)"/><circle cx="58" cy="56" r="36" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="6"/>
+<circle cx="58" cy="56" r="36" fill="none" stroke="rgba(61,220,203,0.12)" stroke-width="14" stroke-dasharray="226.19" class="fglow" transform="rotate(-90 58 56)"/>
+<circle cx="58" cy="56" r="36" fill="none" stroke="#3ddccb" stroke-width="6" stroke-linecap="round" stroke-dasharray="226.19" class="ring" transform="rotate(-90 58 56)"/>
+<text x="58" y="59" text-anchor="middle" class="v fg" style="font-size:19px;font-weight:600">0.94</text>
+<text x="58" y="75" text-anchor="middle" class="v sub" style="font-size:9.5px;letter-spacing:1.2px">HEALTH</text>
+<line x1="112" y1="14" x2="112" y2="98" stroke="rgba(255,255,255,0.08)"/>
+<text x="124" y="26" class="v sub" style="font-size:10px;letter-spacing:1px">SOIL <tspan class="fg">41%</tspan></text>
+<text x="124" y="72" class="v sub" style="font-size:10px;letter-spacing:1px">CLIMATE <tspan class="fg">24°C</tspan></text>
+<g mask="url(#fade)">
+<g transform="translate(124 46)"><polyline points="0,3.83 3,6.24 6,6.93 9,5.86 12,3.8 15,1.81 18,0.69 21,0.59 24,1 27,1.22 30,0.79 33,-0.26 36,-1.51 39,-2.53 42,-3.2 45,-3.71 48,-4.33 51,-5.02 54,-5.35 57,-4.68 60,-2.65 63,0.49 66,3.83 69,6.24 72,6.93 75,5.86 78,3.8 81,1.81 84,0.69 87,0.59 90,1 93,1.22 96,0.79 99,-0.26 102,-1.51 105,-2.53 108,-3.2 111,-3.71 114,-4.33 117,-5.02 120,-5.35 123,-4.68 126,-2.65 129,0.49 132,3.83 135,6.24 138,6.93 141,5.86 144,3.8 147,1.81 150,0.69 153,0.59 156,1 159,1.22 162,0.79 165,-0.26 168,-1.51 171,-2.53 174,-3.2 177,-3.71 180,-4.33 183,-5.02 186,-5.35 189,-4.68 192,-2.65 195,0.49 198,3.83" class="sp" fill="none" stroke="#3ddccb" stroke-width="1.6" stroke-linejoin="round"/></g>
+<g transform="translate(124 90)"><polyline points="0,2.65 3,1.65 6,0.49 9,-0.37 12,-0.59 15,-0.21 18,0.3 21,0.29 24,-0.63 27,-2.35 30,-4.2 33,-5.35 36,-5.21 39,-3.78 42,-1.61 45,0.56 48,2.13 51,2.96 54,3.27 57,3.37 60,3.39 63,3.21 66,2.65 69,1.65 72,0.49 75,-0.37 78,-0.59 81,-0.21 84,0.3 87,0.29 90,-0.63 93,-2.35 96,-4.2 99,-5.35 102,-5.21 105,-3.78 108,-1.61 111,0.56 114,2.13 117,2.96 120,3.27 123,3.37 126,3.39 129,3.21 132,2.65 135,1.65 138,0.49 141,-0.37 144,-0.59 147,-0.21 150,0.3 153,0.29 156,-0.63 159,-2.35 162,-4.2 165,-5.35 168,-5.21 171,-3.78 174,-1.61 177,0.56 180,2.13 183,2.96 186,3.27 189,3.37 192,3.39 195,3.21 198,2.65" class="sp2" fill="none" stroke="#9aa0a6" stroke-width="1.4" stroke-linejoin="round"/></g>
+</g>
+<circle cx="244" cy="46" r="2.5" fill="#3ddccb" class="blink"/><circle cx="244" cy="90" r="2.5" fill="#9aa0a6" class="blink" style="animation-delay:.8s"/></g><rect x=".5" y=".5" width="255" height="111" rx="11.5" fill="none" stroke="rgba(255,255,255,0.08)"/><rect x="222" y="8" width="26" height="26" rx="8" fill="#111317" stroke="rgba(255,255,255,0.16)"/><path d="M230.5 25.5 L239.5 16.5 M233 16.5 H239.5 V23" fill="none" stroke="#9aa0a6" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g><text x="28" y="166" class="ds">ESP32 nodes stream climate and soil data over MQTT.</text><text x="28" y="190" class="ds">TFLite Micro scores health; Gemini flags leaf disease.</text><rect x="28" y="206" width="45.4" height="26" rx="7" class="chA"/><text x="50.7" y="223.5" text-anchor="middle" class="ctA">C++</text><rect x="81.4" y="206" width="115.6" height="26" rx="7" class="ch"/><text x="139.2" y="223.5" text-anchor="middle" class="ct">TFLite Micro</text><rect x="205" y="206" width="68.8" height="26" rx="7" class="ch"/><text x="239.4" y="223.5" text-anchor="middle" class="ct">Gemini</text><rect x="281.8" y="206" width="53.2" height="26" rx="7" class="ch"/><text x="308.4" y="223.5" text-anchor="middle" class="ct">MQTT</text><rect x="343" y="206" width="61" height="26" rx="7" class="ch"/><text x="373.5" y="223.5" text-anchor="middle" class="ct">React</text></svg>

@@ -1,0 +1,49 @@
+name: stats
+
+# Regenerates the self-hosted stat cards in generated/ (scripts/generate_stats.py).
+on:
+  schedule:
+    - cron: "17 6 * * *" # daily, 03:17 in Campinas (UTC-3)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+# Shared with 3d-contrib.yml: both commit to main, so they never push concurrently.
+concurrency:
+  group: profile-commit-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Generate cards
+        env:
+          # The default GITHUB_TOKEN only sees public activity. For accurate
+          # private-contribution counts, add a classic PAT with the `read:user`
+          # scope as the repository secret STATS_TOKEN; it is picked up automatically.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python3 scripts/generate_stats.py
+
+      - name: Commit if changed
+        run: |
+          git add generated/
+          if git diff --cached --quiet; then
+            echo "generated/ is up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(stats): refresh generated cards"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

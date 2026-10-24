@@ -1,0 +1,83 @@
+{
+  "user": "pedrodcarvalho",
+  "generated_at": "2026-10-24",
+  "created_at": "2021-05-03T11:44:24Z",
+  "followers": 5,
+  "repos": 67,
+  "stars": 0,
+  "contrib_last_year": 32,
+  "contrib_total": 637,
+  "commits": 566,
+  "prs": 0,
+  "issues": 0,
+  "reviews": 0,
+  "private": 0,
+  "active_days_total": 277,
+  "streak_current": 1,
+  "streak_longest": 10,
+  "languages": [
+    {
+      "name": "JavaScript",
+      "bytes": 903285,
+      "color": "#f1e05a"
+    },
+    {
+      "name": "Jupyter Notebook",
+      "bytes": 903285,
+      "color": "#DA5B0B"
+    },
+    {
+      "name": "C",
+      "bytes": 420815,
+      "color": "#555555"
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 260120,
+      "color": "#3178c6"
+    },
+    {
+      "name": "CSS",
+      "bytes": 171997,
+      "color": "#663399"
+    },
+    {
+      "name": "Astro",
+      "bytes": 111367,
+      "color": "#ff5a03"
+    },
+    {
+      "name": "C++",
+      "bytes": 111066,
+      "color": "#f34b7d"
+    },
+    {
+      "name": "VHDL",
+      "bytes": 108526,
+      "color": "#adb2cb"
+    },
+    {
+      "name": "HTML",
+      "bytes": 100841,
+      "color": "#e34c26"
+    },
+    {
+      "name": "Python",
+      "bytes": 97631,
+      "color": "#3572A5"
+    },
+    {
+      "name": "Assembly",
+      "bytes": 80621,
+      "color": "#6E4C13"
+    },
+    {
+      "name": "Shell",
+      "bytes": 66591,
+      "color": "#89e051"
+    }
+  ],
+  "notebook_raw_bytes": 29337253,
+  "active_days_last_year": 21,
+  "best_day_last_year": 5
+}

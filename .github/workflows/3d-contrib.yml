@@ -1,0 +1,50 @@
+name: 3d-contrib
+
+# Isometric 3D contribution calendar (yoshi389111/github-profile-3d-contrib),
+# brand palette from scripts/3d-contrib-settings.json. Writes to profile-3d-contrib/:
+#   profile-3d-dark.svg, profile-3d-light.svg
+on:
+  schedule:
+    - cron: "29 6 * * *" # daily, 03:29 in Campinas (UTC-3)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/3d-contrib-settings.json"
+      - ".github/workflows/3d-contrib.yml"
+
+permissions:
+  contents: write
+
+# Shared with stats.yml: both commit to main, so they never push concurrently.
+concurrency:
+  group: profile-commit-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      # No floating major tag is published for this action, so pin the release.
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          # A PAT in STATS_TOKEN (read:user) also counts private contributions.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: scripts/3d-contrib-settings.json
+
+      - name: Commit if changed
+        run: |
+          git add profile-3d-contrib/
+          if git diff --cached --quiet; then
+            echo "profile-3d-contrib/ is up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(3d): refresh 3D contribution calendar"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="220" viewBox="0 0 580 220" fill="none" role="img" aria-labelledby="st-t st-d">
+<title id="st-t">GitHub telemetry</title>
+<desc id="st-d">pedrodcarvalho: Last 365d 32, All time 637, Commits 566, Active days 277, Followers 5, Repos 67, Streak · now 1d, Streak · max 10d</desc>
+<defs>
+<pattern id="st-dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="rgba(14,16,19,0.07)"/></pattern>
+<radialGradient id="st-fade" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(70 0) rotate(90) scale(242 435)"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<mask id="st-m"><rect width="580" height="220" fill="url(#st-fade)"/></mask>
+<linearGradient id="st-disp" x1="0" y1="0" x2="1" y2="0.09"><stop offset="0" stop-color="#0b7a71"/><stop offset="0.41" stop-color="#075e57"/><stop offset="1" stop-color="#0e1013"/></linearGradient>
+<clipPath id="st-clip"><rect x="0.5" y="0.5" width="579" height="219" rx="16"/></clipPath>
+</defs>
+<style>
+.sans{font-family:'Geist', 'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
+.mono{font-family:'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;text-transform:uppercase}
+.eb{font-size:12px;letter-spacing:.16em;fill:#4f555c}
+.sub{fill:#5f656c}
+.mut{fill:#4f555c}
+.fg{fill:#0e1013}
+.acc{fill:#0b7a71}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-out infinite}
+@keyframes pulse{0%{transform:scale(1);opacity:.85}70%,100%{transform:scale(3.2);opacity:0}}
+.rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.pulse{opacity:0}.scan{display:none}}
+</style>
+<g clip-path="url(#st-clip)">
+<rect width="580" height="220" fill="#ffffff"/>
+<rect width="580" height="220" fill="url(#st-dots)" mask="url(#st-m)"/>
+
+<circle class="pulse" cx="32" cy="32" r="4" fill="rgba(143,79,0,0.35)"/>
+<circle cx="32" cy="32" r="3.5" fill="#8f4f00"/>
+<text x="44" y="36" class="mono eb">Telemetry · live</text>
+<text x="552" y="36" text-anchor="end" class="mono eb sub" style="letter-spacing:.12em">@pedrodcarvalho</text>
+<path d="M28 62H552M28 134H552M28 206H552" stroke="rgba(14,16,19,0.09)"/>
+<path d="M159.0 76V120M159.0 148V192" stroke="rgba(14,16,19,0.09)"/>
+<path d="M290.0 76V120M290.0 148V192" stroke="rgba(14,16,19,0.09)"/>
+<path d="M421.0 76V120M421.0 148V192" stroke="rgba(14,16,19,0.09)"/>
+<g class="rise" style="animation-delay:0.15s"><rect x="28.0" y="80" width="6" height="2" fill="#0b7a71"/><text x="40.0" y="85" class="mono sub" style="font-size:11px;letter-spacing:.1em">Last 365d</text><text x="28.0" y="118" class="sans" style="font-size:28px;font-weight:600;letter-spacing:-.02em" fill="url(#st-disp)">32</text></g>
+<g class="rise" style="animation-delay:0.22s"><rect x="175.0" y="80" width="6" height="2" fill="#0b7a71"/><text x="187.0" y="85" class="mono sub" style="font-size:11px;letter-spacing:.1em">All time</text><text x="175.0" y="118" class="sans" style="font-size:28px;font-weight:600;letter-spacing:-.02em" fill="#0e1013">637</text></g>
+<g class="rise" style="animation-delay:0.29s"><rect x="306.0" y="80" width="6" height="2" fill="#0b7a71"/><text x="318.0" y="85" class="mono sub" style="font-size:11px;letter-spacing:.1em">Commits</text><text x="306.0" y="118" class="sans" style="font-size:28px;font-weight:600;letter-spacing:-.02em" fill="#0e1013">566</text></g>
+<g class="rise" style="animation-delay:0.36s"><rect x="437.0" y="80" width="6" height="2" fill="#0b7a71"/><text x="449.0" y="85" class="mono sub" style="font-size:11px;letter-spacing:.1em">Active days</text><text x="437.0" y="118" class="sans" style="font-size:28px;font-weight:600;letter-spacing:-.02em" fill="#0e1013">277</text></g>
+<g class="rise" style="animation-delay:0.43s"><rect x="28.0" y="152" width="6" height="2" fill="#0b7a71"/><text x="40.0" y="157" class="mono sub" style="font-size:11px;letter-spacing:.1em">Followers</text><text x="28.0" y="190" class="sans" style="font-size:28px;font-weight:600;letter-spacing:-.02em" fill="#0e1013">5</text></g>
+<g class="rise" style="animation-delay:0.50s"><rect x="175.0" y="152" width="6" height="2" fill="#0b7a71"/><text x="187.0" y="157" class="mono sub" style="font-size:11px;letter-spacing:.1em">Repos</text><text x="175.0" y="190" class="sans" style="font-size:28px;font-weight:600;letter-spacing:-.02em" fill="#0e1013">67</text></g>
+<g class="rise" style="animation-delay:0.57s"><rect x="306.0" y="152" width="6" height="2" fill="#0b7a71"/><text x="318.0" y="157" class="mono sub" style="font-size:11px;letter-spacing:.1em">Streak · now</text><text x="306.0" y="190" class="sans" style="font-size:28px;font-weight:600;letter-spacing:-.02em" fill="#0e1013">1<tspan dx="3" style="font-family:'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-size:15px;font-weight:500;fill:#5f656c">d</tspan></text></g>
+<g class="rise" style="animation-delay:0.64s"><rect x="437.0" y="152" width="6" height="2" fill="#0b7a71"/><text x="449.0" y="157" class="mono sub" style="font-size:11px;letter-spacing:.1em">Streak · max</text><text x="437.0" y="190" class="sans" style="font-size:28px;font-weight:600;letter-spacing:-.02em" fill="#0e1013">10<tspan dx="3" style="font-family:'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-size:15px;font-weight:500;fill:#5f656c">d</tspan></text></g>
+</g>
+<rect x="0.5" y="0.5" width="579" height="219" rx="16" stroke="rgba(14,16,19,0.09)"/>
+</svg>

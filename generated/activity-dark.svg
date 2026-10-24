@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" fill="none" role="img" aria-labelledby="ac-t ac-d">
+<title id="ac-t">Contribution activity</title>
+<desc id="ac-d">pedrodcarvalho: 32 contributions in the last year, 21 active days, best day 5, current streak 1 days.</desc>
+<defs>
+<pattern id="ac-dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="rgba(255,255,255,0.06)"/></pattern>
+<radialGradient id="ac-fade" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(144 0) rotate(90) scale(275 900)"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<mask id="ac-m"><rect width="1200" height="250" fill="url(#ac-fade)"/></mask>
+<linearGradient id="ac-disp" x1="0" y1="0" x2="1" y2="0.09"><stop offset="0" stop-color="#3ddccb"/><stop offset="0.41" stop-color="#6ff0e0"/><stop offset="1" stop-color="#e8eaed"/></linearGradient>
+<clipPath id="ac-clip"><rect x="0.5" y="0.5" width="1199" height="249" rx="16"/></clipPath>
+</defs>
+<style>
+.sans{font-family:'Geist', 'Inter', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif}
+.mono{font-family:'Geist Mono', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;text-transform:uppercase}
+.eb{font-size:12px;letter-spacing:.16em;fill:#9aa0a6}
+.sub{fill:#8a9097}
+.mut{fill:#9aa0a6}
+.fg{fill:#e8eaed}
+.acc{fill:#3ddccb}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-out infinite}
+@keyframes pulse{0%{transform:scale(1);opacity:.85}70%,100%{transform:scale(3.2);opacity:0}}
+.rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.c0{fill:rgba(255,255,255,0.06)}.c1{fill:#0e4a45}.c2{fill:#167a70}.c3{fill:#26b3a3}.c4{fill:#3ddccb}.scan{animation:scan 7.0s linear infinite}@keyframes scan{from{transform:translateX(0)}to{transform:translateX(958px)}}.hot{animation:hot 7.0s linear infinite}@keyframes hot{0%%,100%%{opacity:0}2%%{opacity:1}12%%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.pulse{opacity:0}.scan{display:none}}
+</style>
+<g clip-path="url(#ac-clip)">
+<rect width="1200" height="250" fill="#111317"/>
+<rect width="1200" height="250" fill="url(#ac-dots)" mask="url(#ac-m)"/>
+
+<circle class="pulse" cx="40" cy="36" r="4" fill="rgba(255,181,71,0.4)"/>
+<circle cx="40" cy="36" r="3.5" fill="#ffb547"/>
+<text x="52" y="40" class="mono eb">Activity · last 52 weeks</text>
+<text x="1164" y="40" text-anchor="end" class="mono eb sub" style="letter-spacing:.12em">sync · 2026-10-24 utc</text>
+<path d="M36 60H1164" stroke="rgba(255,255,255,0.08)"/>
+<g class="rise" style="animation-delay:.1s"><text x="34" y="138" class="sans" style="font-size:60px;font-weight:600;letter-spacing:-.035em" fill="url(#ac-disp)">32</text><text x="36" y="164" class="mono mut" style="font-size:12px;letter-spacing:.14em">contributions · 365d</text></g>
+<g class="rise" style="animation-delay:0.20s"><text x="36" y="198" class="mono sub" style="font-size:10.5px;letter-spacing:.12em">Active</text><text x="36" y="220" class="sans fg" style="font-size:18px;font-weight:600">21d</text></g>
+<g class="rise" style="animation-delay:0.27s"><text x="108" y="198" class="mono sub" style="font-size:10.5px;letter-spacing:.12em">Best day</text><text x="108" y="220" class="sans fg" style="font-size:18px;font-weight:600">5</text></g>
+<g class="rise" style="animation-delay:0.34s"><text x="180" y="198" class="mono sub" style="font-size:10.5px;letter-spacing:.12em">Streak</text><text x="180" y="220" class="sans fg" style="font-size:18px;font-weight:600">1d</text></g>
+<path d="M250 84V205" stroke="rgba(255,255,255,0.08)"/>
+<text x="276" y="119.2" text-anchor="end" class="mono sub" style="font-size:10.5px;letter-spacing:.06em">Mon</text>
+<text x="276" y="152.3" text-anchor="end" class="mono sub" style="font-size:10.5px;letter-spacing:.06em">Wed</text>
+<text x="276" y="185.5" text-anchor="end" class="mono sub" style="font-size:10.5px;letter-spacing:.06em">Fri</text>
+<text x="319.1" y="82" class="mono sub" style="font-size:11px;letter-spacing:.08em">Nov</text>
+<text x="402.0" y="82" class="mono sub" style="font-size:11px;letter-spacing:.08em">Dec</text>
+<text x="468.2" y="82" class="mono sub" style="font-size:11px;letter-spacing:.08em">Jan</text>
+<text x="534.5" y="82" class="mono sub" style="font-size:11px;letter-spacing:.08em">Feb</text>
+<text x="600.8" y="82" class="mono sub" style="font-size:11px;letter-spacing:.08em">Mar</text>
+<text x="683.6" y="82" class="mono sub" style="font-size:11px;letter-spacing:.08em">Apr</text>
+<text x="749.8" y="82" class="mono sub" style="font-size:11px;letter-spacing:.08em">May</text>
+<text x="832.7" y="82" class="mono sub" style="font-size:11px;letter-spacing:.08em">Jun</text>
+<text x="898.9" y="82" class="mono sub" style="font-size:11px;letter-spacing:.08em">Jul</text>
+<text x="965.2" y="82" class="mono sub" style="font-size:11px;letter-spacing:.08em">Aug</text>
+<text x="1048.0" y="82" class="mono sub" style="font-size:11px;letter-spacing:.08em">Sep</text>
+<text x="1114.3" y="82" class="mono sub" style="font-size:11px;letter-spacing:.08em">Oct</text>
+<defs><rect id="ac-k" width="13.3" height="13.3" rx="3"/><rect id="ac-h" x="-1.5" y="-1.5" width="16.3" height="16.3" rx="4"/><filter id="ac-blur" x="-1" y="-1" width="3" height="3"><feGaussianBlur stdDeviation="3.5"/></filter></defs>
+<g filter="url(#ac-blur)" opacity=".8" fill="rgba(61,220,203,0.35)">
+<g transform="translate(882.4 0)"><use href="#ac-k" y="125.1"/></g>
+</g>
+<g transform="translate(286.0 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c2"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c1"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c2"/></g>
+<g transform="translate(302.6 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(319.1 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(335.7 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(352.3 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(368.8 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(385.4 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(402.0 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(418.5 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(435.1 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(451.7 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(468.2 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(484.8 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(501.4 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(517.9 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(534.5 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(551.1 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(567.6 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(584.2 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(600.8 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(617.3 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(633.9 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(650.5 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(667.0 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(683.6 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(700.2 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(716.7 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(733.3 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(749.8 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(766.4 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(783.0 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(799.5 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(816.1 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(832.7 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(849.2 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(865.8 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(882.4 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c4"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(898.9 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(915.5 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(932.1 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(948.6 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(965.2 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c2"/><use href="#ac-k" y="125.1" class="c2"/><use href="#ac-k" y="141.7" class="c2"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(981.8 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c2"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(998.3 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c1"/><use href="#ac-k" y="125.1" class="c1"/><use href="#ac-k" y="141.7" class="c1"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(1014.9 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c1"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(1031.5 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c1"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(1048.0 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c1"/><use href="#ac-k" y="141.7" class="c1"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(1064.6 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c1"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(1081.2 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(1097.7 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c1"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(1114.3 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c1"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c1"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(1130.9 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
+<g transform="translate(1147.4 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c1"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c2"/></g>
+<g fill="none" stroke="#6ff0e0" stroke-width="1.5">
+<g class="hot" style="animation-delay:0.00s" opacity="0" transform="translate(286.0 0)"><use href="#ac-h" y="108.6"/><use href="#ac-h" y="158.3"/><use href="#ac-h" y="191.4"/></g>
+<g class="hot" style="animation-delay:4.36s" opacity="0" transform="translate(882.4 0)"><use href="#ac-h" y="125.1"/></g>
+<g class="hot" style="animation-delay:4.96s" opacity="0" transform="translate(965.2 0)"><use href="#ac-h" y="108.6"/><use href="#ac-h" y="125.1"/><use href="#ac-h" y="141.7"/></g>
+<g class="hot" style="animation-delay:5.08s" opacity="0" transform="translate(981.8 0)"><use href="#ac-h" y="125.1"/></g>
+<g class="hot" style="animation-delay:5.20s" opacity="0" transform="translate(998.3 0)"><use href="#ac-h" y="108.6"/><use href="#ac-h" y="125.1"/><use href="#ac-h" y="141.7"/></g>
+<g class="hot" style="animation-delay:5.33s" opacity="0" transform="translate(1014.9 0)"><use href="#ac-h" y="125.1"/></g>
+<g class="hot" style="animation-delay:5.45s" opacity="0" transform="translate(1031.5 0)"><use href="#ac-h" y="108.6"/></g>
+<g class="hot" style="animation-delay:5.57s" opacity="0" transform="translate(1048.0 0)"><use href="#ac-h" y="125.1"/><use href="#ac-h" y="141.7"/></g>
+<g class="hot" style="animation-delay:5.69s" opacity="0" transform="translate(1064.6 0)"><use href="#ac-h" y="125.1"/></g>
+<g class="hot" style="animation-delay:5.93s" opacity="0" transform="translate(1097.7 0)"><use href="#ac-h" y="108.6"/></g>
+<g class="hot" style="animation-delay:6.05s" opacity="0" transform="translate(1114.3 0)"><use href="#ac-h" y="141.7"/><use href="#ac-h" y="174.8"/></g>
+<g class="hot" style="animation-delay:6.29s" opacity="0" transform="translate(1147.4 0)"><use href="#ac-h" y="141.7"/><use href="#ac-h" y="191.4"/></g>
+</g>
+<linearGradient id="ac-scan" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#3ddccb" stop-opacity="0"/><stop offset=".85" stop-color="#3ddccb" stop-opacity=".16"/><stop offset="1" stop-color="#6ff0e0" stop-opacity=".5"/></linearGradient>
+<clipPath id="ac-gc"><rect x="280" y="86" width="890" height="125"/></clipPath>
+<g clip-path="url(#ac-gc)"><g class="scan"><rect x="206" y="86" width="80" height="125" fill="url(#ac-scan)"/><rect x="285" y="86" width="1.5" height="125" fill="#6ff0e0" opacity=".9"/></g></g>
+<text x="1034" y="239.69622641509437" text-anchor="end" class="mono sub" style="font-size:10.5px;letter-spacing:.1em">less</text>
+<rect x="1044" y="230.69622641509437" width="11" height="11" rx="2.5" class="c0"/>
+<rect x="1060" y="230.69622641509437" width="11" height="11" rx="2.5" class="c1"/>
+<rect x="1076" y="230.69622641509437" width="11" height="11" rx="2.5" class="c2"/>
+<rect x="1092" y="230.69622641509437" width="11" height="11" rx="2.5" class="c3"/>
+<rect x="1108" y="230.69622641509437" width="11" height="11" rx="2.5" class="c4"/>
+<text x="1128" y="239.69622641509437" class="mono sub" style="font-size:10.5px;letter-spacing:.1em">more</text>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="249" rx="16" stroke="rgba(255,255,255,0.08)"/>
+</svg>
