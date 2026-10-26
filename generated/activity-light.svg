@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" fill="none" role="img" aria-labelledby="ac-t ac-d">
 <title id="ac-t">Contribution activity</title>
-<desc id="ac-d">pedrodcarvalho: 34 contributions in the last year, 18 active days, best day 5, current streak 1 days.</desc>
+<desc id="ac-d">pedrodcarvalho: 29 contributions in the last year, 18 active days, best day 5, current streak 0 days.</desc>
 <defs>
 <pattern id="ac-dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="rgba(14,16,19,0.07)"/></pattern>
 <radialGradient id="ac-fade" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(144 0) rotate(90) scale(275 900)"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
@@ -30,12 +30,12 @@
 <circle class="pulse" cx="40" cy="36" r="4" fill="rgba(143,79,0,0.35)"/>
 <circle cx="40" cy="36" r="3.5" fill="#8f4f00"/>
 <text x="52" y="40" class="mono eb">Activity · last 52 weeks</text>
-<text x="1164" y="40" text-anchor="end" class="mono eb sub" style="letter-spacing:.12em">sync · 2026-10-25 utc</text>
+<text x="1164" y="40" text-anchor="end" class="mono eb sub" style="letter-spacing:.12em">sync · 2026-10-26 utc</text>
 <path d="M36 60H1164" stroke="rgba(14,16,19,0.09)"/>
-<g class="rise" style="animation-delay:.1s"><text x="34" y="138" class="sans" style="font-size:60px;font-weight:600;letter-spacing:-.035em" fill="url(#ac-disp)">34</text><text x="36" y="164" class="mono mut" style="font-size:12px;letter-spacing:.14em">contributions · 365d</text></g>
+<g class="rise" style="animation-delay:.1s"><text x="34" y="138" class="sans" style="font-size:60px;font-weight:600;letter-spacing:-.035em" fill="url(#ac-disp)">29</text><text x="36" y="164" class="mono mut" style="font-size:12px;letter-spacing:.14em">contributions · 365d</text></g>
 <g class="rise" style="animation-delay:0.20s"><text x="36" y="198" class="mono sub" style="font-size:10.5px;letter-spacing:.12em">Active</text><text x="36" y="220" class="sans fg" style="font-size:18px;font-weight:600">18d</text></g>
 <g class="rise" style="animation-delay:0.27s"><text x="108" y="198" class="mono sub" style="font-size:10.5px;letter-spacing:.12em">Best day</text><text x="108" y="220" class="sans fg" style="font-size:18px;font-weight:600">5</text></g>
-<g class="rise" style="animation-delay:0.34s"><text x="180" y="198" class="mono sub" style="font-size:10.5px;letter-spacing:.12em">Streak</text><text x="180" y="220" class="sans fg" style="font-size:18px;font-weight:600">1d</text></g>
+<g class="rise" style="animation-delay:0.34s"><text x="180" y="198" class="mono sub" style="font-size:10.5px;letter-spacing:.12em">Streak</text><text x="180" y="220" class="sans fg" style="font-size:18px;font-weight:600">0d</text></g>
 <path d="M250 84V205" stroke="rgba(14,16,19,0.09)"/>
 <text x="276" y="119.2" text-anchor="end" class="mono sub" style="font-size:10.5px;letter-spacing:.06em">Mon</text>
 <text x="276" y="152.3" text-anchor="end" class="mono sub" style="font-size:10.5px;letter-spacing:.06em">Wed</text>
@@ -109,7 +109,7 @@
 <g transform="translate(1097.7 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c1"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c1"/><use href="#ac-k" y="191.4" class="c0"/></g>
 <g transform="translate(1114.3 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
 <g transform="translate(1130.9 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c1"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c4"/></g>
-<g transform="translate(1147.4 0)"><use href="#ac-k" y="92.0" class="c0"/></g>
+<g transform="translate(1147.4 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/></g>
 <g fill="none" stroke="#075e57" stroke-width="1.5">
 <g class="hot" style="animation-delay:4.24s" opacity="0" transform="translate(865.8 0)"><use href="#ac-h" y="125.1"/></g>
 <g class="hot" style="animation-delay:4.84s" opacity="0" transform="translate(948.6 0)"><use href="#ac-h" y="108.6"/><use href="#ac-h" y="125.1"/><use href="#ac-h" y="141.7"/></g>
