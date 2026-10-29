@@ -30,7 +30,7 @@
 <circle class="pulse" cx="40" cy="36" r="4" fill="rgba(255,181,71,0.4)"/>
 <circle cx="40" cy="36" r="3.5" fill="#ffb547"/>
 <text x="52" y="40" class="mono eb">Activity · last 52 weeks</text>
-<text x="1164" y="40" text-anchor="end" class="mono eb sub" style="letter-spacing:.12em">sync · 2026-10-28 utc</text>
+<text x="1164" y="40" text-anchor="end" class="mono eb sub" style="letter-spacing:.12em">sync · 2026-10-29 utc</text>
 <path d="M36 60H1164" stroke="rgba(255,255,255,0.08)"/>
 <g class="rise" style="animation-delay:.1s"><text x="34" y="138" class="sans" style="font-size:60px;font-weight:600;letter-spacing:-.035em" fill="url(#ac-disp)">29</text><text x="36" y="164" class="mono mut" style="font-size:12px;letter-spacing:.14em">contributions · 365d</text></g>
 <g class="rise" style="animation-delay:0.20s"><text x="36" y="198" class="mono sub" style="font-size:10.5px;letter-spacing:.12em">Active</text><text x="36" y="220" class="sans fg" style="font-size:18px;font-weight:600">18d</text></g>
@@ -109,7 +109,7 @@
 <g transform="translate(1097.7 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c1"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c1"/><use href="#ac-k" y="191.4" class="c0"/></g>
 <g transform="translate(1114.3 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c0"/></g>
 <g transform="translate(1130.9 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c1"/><use href="#ac-k" y="158.3" class="c0"/><use href="#ac-k" y="174.8" class="c0"/><use href="#ac-k" y="191.4" class="c4"/></g>
-<g transform="translate(1147.4 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/></g>
+<g transform="translate(1147.4 0)"><use href="#ac-k" y="92.0" class="c0"/><use href="#ac-k" y="108.6" class="c0"/><use href="#ac-k" y="125.1" class="c0"/><use href="#ac-k" y="141.7" class="c0"/><use href="#ac-k" y="158.3" class="c0"/></g>
 <g fill="none" stroke="#6ff0e0" stroke-width="1.5">
 <g class="hot" style="animation-delay:4.24s" opacity="0" transform="translate(865.8 0)"><use href="#ac-h" y="125.1"/></g>
 <g class="hot" style="animation-delay:4.84s" opacity="0" transform="translate(948.6 0)"><use href="#ac-h" y="108.6"/><use href="#ac-h" y="125.1"/><use href="#ac-h" y="141.7"/></g>
