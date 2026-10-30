@@ -53,7 +53,7 @@
 <g class="rise" style="animation-delay:0.60s"><circle cx="311.0" cy="147" r="5" fill="#ff5a03" stroke="rgba(255,255,255,0.16)"/><text x="324.0" y="152" class="sans fg" style="font-size:14px;font-weight:500">Astro</text><path d="M375 148H494" stroke="rgba(255,255,255,0.08)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="552.0" y="152" text-anchor="end" class="mono mut" style="font-size:12.5px">3.2%</text></g>
 <g class="rise" style="animation-delay:0.65s"><circle cx="311.0" cy="170" r="5" fill="#f34b7d" stroke="rgba(255,255,255,0.16)"/><text x="324.0" y="175" class="sans fg" style="font-size:14px;font-weight:500">C++</text><path d="M359 171H494" stroke="rgba(255,255,255,0.08)" stroke-dasharray="1 4" stroke-linecap="round"/><text x="552.0" y="175" text-anchor="end" class="mono mut" style="font-size:12.5px">3.2%</text></g>
 <path d="M28 180H552" stroke="rgba(255,255,255,0.08)"/>
-<text x="28" y="202" class="mono sub" style="font-size:11px;letter-spacing:.08em">Jupyter weight capped · raw 29.3 MB w/ outputs</text>
+<text x="28" y="202" class="mono sub" style="font-size:11px;letter-spacing:.08em">Jupyter weight capped · raw 30.1 MB w/ outputs</text>
 <text x="552" y="202" text-anchor="end" class="mono sub" style="font-size:11px;letter-spacing:.08em">+10 more · 12.7%</text>
 </g>
 <rect x="0.5" y="0.5" width="579" height="219" rx="16" stroke="rgba(255,255,255,0.08)"/>
